@@ -1,2 +1,2 @@
 language = "python3"
-run = "python lab1/example16.py"
+run = "python Codes/lab6/Trace_of_a_Matrix.py"
